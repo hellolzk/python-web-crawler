@@ -1,0 +1,777 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Yu</Author>
+  <LastAuthor>Yu</LastAuthor>
+  <Created>2022-05-28T11:27:12Z</Created>
+  <LastSaved>2022-05-28T11:28:09Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12456</WindowHeight>
+  <WindowWidth>23256</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Center"/>
+   <Borders/>
+   <Font ss:FontName="等线" x:CharSet="134" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="douyuLOL">
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="121" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="13.8">
+   <Row>
+    <Cell><Data ss:Type="String">houseName</Data></Cell>
+    <Cell><Data ss:Type="String">houseTape</Data></Cell>
+    <Cell><Data ss:Type="String">hostName</Data></Cell>
+    <Cell><Data ss:Type="String">popularity</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">淑怡：双倍亲密度</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">不2不叫周淑怡</Data></Cell>
+    <Cell><Data ss:Type="String">229.2万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">新版本中单艾克理解</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">冰块哥ekko</Data></Cell>
+    <Cell><Data ss:Type="String">44.6万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">余小C：峡谷杀神冲大师！</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">余小C真的很强</Data></Cell>
+    <Cell><Data ss:Type="String">179.1万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">孙悟空：新版本，我无敌了</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">孙悟空丨兰林汉</Data></Cell>
+    <Cell><Data ss:Type="String">165.4万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">黄金双倍！韩服速上1000分！</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">石页的第一根矛s</Data></Cell>
+    <Cell><Data ss:Type="String">135.5万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">黄金双倍钻粉局！</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">Xinyi新一丶</Data></Cell>
+    <Cell><Data ss:Type="String">73.2万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">今天决战到天亮</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">王纪超666</Data></Cell>
+    <Cell><Data ss:Type="String">131.8万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">LANZIKING的直播间</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">impOUO</Data></Cell>
+    <Cell><Data ss:Type="String">123.4万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">新版本俄洛伊坦度加强</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">海神丶俄洛伊</Data></Cell>
+    <Cell><Data ss:Type="String">93.8万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">S7测试服整活冲冲冲</Data></Cell>
+    <Cell><Data ss:Type="String">lol云顶之弈</Data></Cell>
+    <Cell><Data ss:Type="String">阿涛皎月Carry</Data></Cell>
+    <Cell><Data ss:Type="String">160.2万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">?3.2AD单排千分王者局</Data></Cell>
+    <Cell><Data ss:Type="String">LOL手游</Data></Cell>
+    <Cell><Data ss:Type="String">太阳Xsun</Data></Cell>
+    <Cell><Data ss:Type="String">91.6万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">一桶2100，嘎嘎乱杀</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">十月船长丶</Data></Cell>
+    <Cell><Data ss:Type="String">93.2万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">今日双倍亲密度哦！！！</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">你的饼酱吖</Data></Cell>
+    <Cell><Data ss:Type="String">91.5万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">艾欧尼亚有车位（双倍亲密）</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">周周周唯一</Data></Cell>
+    <Cell><Data ss:Type="String">89.9万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">有车位 黑色 艾欧尼亚姐姐</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">川美人</Data></Cell>
+    <Cell><Data ss:Type="String">37.1万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">美少女ad  电一有车位</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">持伞鬼</Data></Cell>
+    <Cell><Data ss:Type="String">7万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">世一劫56ms冲峡谷</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">空大的劫zz</Data></Cell>
+    <Cell><Data ss:Type="String">86.4万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">虫王：峡谷又是闹虫灾的一天~</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">Chogod虫王</Data></Cell>
+    <Cell><Data ss:Type="String">75.4万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">电一有车位，温柔少女音</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">琪喵超甜QvQ</Data></Cell>
+    <Cell><Data ss:Type="String">29.2万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">王者局 备战新赛季冲</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">一家之猪ovo</Data></Cell>
+    <Cell><Data ss:Type="String">74万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">无限火力450连胜王!不是MVP请举报~</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">小阿超ccc</Data></Cell>
+    <Cell><Data ss:Type="String">14.5万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">1铲子+1熬兴=吃鸡 谁赞成谁反对</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">中年人拳师七号</Data></Cell>
+    <Cell><Data ss:Type="String">72.2万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">纯种猛男冲分 请主播专注冷静礼貌</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">胸肌很大的良小伞</Data></Cell>
+    <Cell><Data ss:Type="String">72.2万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">三年第一钻石教学</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">峡谷杀神酱油瓶</Data></Cell>
+    <Cell><Data ss:Type="String">68.7万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">黑色玫瑰有车位可换区 10666180</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">YL丶小舞</Data></Cell>
+    <Cell><Data ss:Type="String">11.5万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">MSI经典赛事回顾</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟赛事</Data></Cell>
+    <Cell><Data ss:Type="String">66万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">冲70级，路过的哥哥抬一手~</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">34f软绵绵的兮兮猫</Data></Cell>
+    <Cell><Data ss:Type="String">64.4万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">峡谷1500adad搞峡谷</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">Jz0w0</Data></Cell>
+    <Cell><Data ss:Type="String">61.4万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">黑色匹配王者匹配输一把进厂</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">黄家立z</Data></Cell>
+    <Cell><Data ss:Type="String">60.9万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">电一艾欧尼亚：早起的鸟儿有虫吃</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">阿轩姑娘</Data></Cell>
+    <Cell><Data ss:Type="String">60.1万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">彭枪枪 :拯救你的不开心！</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">彭枪枪OVO</Data></Cell>
+    <Cell><Data ss:Type="String">59.8万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">峡谷顶尖efls月南 韩服复活！</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">双一ovo</Data></Cell>
+    <Cell><Data ss:Type="String">59.4万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">少女音 有车位哦</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">晚离丷</Data></Cell>
+    <Cell><Data ss:Type="String">58.8万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">刺客流狗头 沉浸式发育！！！</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">Dy丶小然</Data></Cell>
+    <Cell><Data ss:Type="String">53.9万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">偷钱艾克，先攻3000爽爽爽</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">JOJO瑞兹</Data></Cell>
+    <Cell><Data ss:Type="String">53.5万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">景天:双倍亲密度韩服冲王者！</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">景天zxz</Data></Cell>
+    <Cell><Data ss:Type="String">50.6万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">一区冲王者~~</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">小淘气沙皇king</Data></Cell>
+    <Cell><Data ss:Type="String">48.9万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">认真每一把啊啊</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">楼楼ovo</Data></Cell>
+    <Cell><Data ss:Type="String">47.2万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">峡谷之巅1487分打野叫学</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">没有意义OuO</Data></Cell>
+    <Cell><Data ss:Type="String">45.2万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">美服第一泰坦</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">猴小秀s</Data></Cell>
+    <Cell><Data ss:Type="String">44.4万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">新版岩雀极致教学 白银双倍</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">小茶雀</Data></Cell>
+    <Cell><Data ss:Type="String">42.3万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">勤劳的小蜜蜂 7258546</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">Yfqaq</Data></Cell>
+    <Cell><Data ss:Type="String">42.2万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[电一有车位]温柔女AD~~</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">金鱼妹yo</Data></Cell>
+    <Cell><Data ss:Type="String">40万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">欣有事狂代播</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">SL娄宁欣</Data></Cell>
+    <Cell><Data ss:Type="String">38.5万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">风女风女风女！！！</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">睿智三</Data></Cell>
+    <Cell><Data ss:Type="String">37.9万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">新版本无暴击流亚索起大飞</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">小翁亚索</Data></Cell>
+    <Cell><Data ss:Type="String">37.7万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">【艾欧尼亚】冲冲冲！</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">一只芒小桃</Data></Cell>
+    <Cell><Data ss:Type="String">37.3万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">电一少御音?心中无男人，拔刀自然神</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">茨木木一拳打飞你</Data></Cell>
+    <Cell><Data ss:Type="String">37万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">胜率高达90节奏型的中单</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">若雨蚂蚱</Data></Cell>
+    <Cell><Data ss:Type="String">36.5万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">斗鱼欧气直播间</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">暴躁之鼬神</Data></Cell>
+    <Cell><Data ss:Type="String">67.6万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">国一狮！双倍亲密度网二王者局！</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">辉辉狮子</Data></Cell>
+    <Cell><Data ss:Type="String">36万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">好猛一女的~</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">星早</Data></Cell>
+    <Cell><Data ss:Type="String">35.7万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">遗憾：70Ms韩服</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">Y1hanOVO</Data></Cell>
+    <Cell><Data ss:Type="String">35.6万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">电一：你的甜御打野</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">漫声声i</Data></Cell>
+    <Cell><Data ss:Type="String">35万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">峡谷1300分全能打野一区铂金乱杀教学</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">呆头鹅xxc</Data></Cell>
+    <Cell><Data ss:Type="String">32.6万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">周六双倍亲密度哦~</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">天仙老婆呀</Data></Cell>
+    <Cell><Data ss:Type="String">32.4万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">艾欧尼亚有车位嗷~</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">是柚子不是柚子</Data></Cell>
+    <Cell><Data ss:Type="String">32.3万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">猫咪锁定 听天由命！（二台）</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">宋暖阳绝不咕咕</Data></Cell>
+    <Cell><Data ss:Type="String">32.3万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">新版本提莫无敌了！！！</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">恶霸提莫</Data></Cell>
+    <Cell><Data ss:Type="String">32.2万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">新版本螳螂玩法！</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">摘星螳螂</Data></Cell>
+    <Cell><Data ss:Type="String">31.7万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">夏沫沫：快来玩游戏阿~</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">让沫沫带你飞</Data></Cell>
+    <Cell><Data ss:Type="String">30.4万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">峡谷王者打野60Ms一区大师教学</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">昊天jug</Data></Cell>
+    <Cell><Data ss:Type="String">30.1万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">刘小又：峡谷冲分！</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">刘小又XD</Data></Cell>
+    <Cell><Data ss:Type="String">29.9万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">电一有车位，快来上车一起玩吧~</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">温晚妹妹i</Data></Cell>
+    <Cell><Data ss:Type="String">29.3万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">国服第一辅助教学天花板万花筒什么都能学到</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">天才辅助杨小杨</Data></Cell>
+    <Cell><Data ss:Type="String">29.1万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">无线火力的神！享受视觉盛宴</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">小夕ADC</Data></Cell>
+    <Cell><Data ss:Type="String">28.9万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">峡谷千分野王打打小小钻石</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">故梦蛇女</Data></Cell>
+    <Cell><Data ss:Type="String">27.9万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">请叫我若安学姐</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">w若安w</Data></Cell>
+    <Cell><Data ss:Type="String">27.8万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">宗师小姐姐呀</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">最初的可可</Data></Cell>
+    <Cell><Data ss:Type="String">27.1万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">艾欧尼亚大乱斗冲呀！！</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">阿瑶超甜</Data></Cell>
+    <Cell><Data ss:Type="String">26.4万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">凑凑：一起露营吧！</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">赵小臭</Data></Cell>
+    <Cell><Data ss:Type="String">26.1万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">最强小法：无敌团战凯瑞教学</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">灰灰小法师OvO</Data></Cell>
+    <Cell><Data ss:Type="String">24.5万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">【猛女】电一带你飛(?????)???</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">数学系丶琪老师</Data></Cell>
+    <Cell><Data ss:Type="String">23.6万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">求安慰呜呜呜</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">我都想笑了</Data></Cell>
+    <Cell><Data ss:Type="String">22.9万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">艾欧尼亚全天车开冲</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">不讨嬉</Data></Cell>
+    <Cell><Data ss:Type="String">22.9万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">奶斯：黑色玫瑰有车位</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">妙音or奶斯</Data></Cell>
+    <Cell><Data ss:Type="String">22.6万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">（有车位）能耐让我加班</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">懒糖兔</Data></Cell>
+    <Cell><Data ss:Type="String">22.2万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">电台声优：电一有车位 发条薇古丝绝活</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">豪男xhn</Data></Cell>
+    <Cell><Data ss:Type="String">22万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">王者ad 铂金钻石单排坐牢</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">尺子AD</Data></Cell>
+    <Cell><Data ss:Type="String">21.8万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">您近期送过礼物的直播间</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">雪梨啊雪黎</Data></Cell>
+    <Cell><Data ss:Type="String">21.6万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">峡谷之巅巅！</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">Conor灬</Data></Cell>
+    <Cell><Data ss:Type="String">21.6万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">jugking教你乱杀砖石小！峡谷野王！</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">少年小治</Data></Cell>
+    <Cell><Data ss:Type="String">21.4万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">(?ω?)爱你咕叽咕叽汪，不肯咕一场</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">秧苗OoO</Data></Cell>
+    <Cell><Data ss:Type="String">21.3万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">艾欧尼亚：全能型妹妹</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">紫紫紫夏</Data></Cell>
+    <Cell><Data ss:Type="String">21.2万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">T1vsG2  吐槽大会</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟赛事2</Data></Cell>
+    <Cell><Data ss:Type="String">21.1万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">嘟嘟嘟~铁人三项早班车</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">野格不也</Data></Cell>
+    <Cell><Data ss:Type="String">20.5万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2022城市英雄争霸赛.</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟赛事3</Data></Cell>
+    <Cell><Data ss:Type="String">20.5万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">直播:卡特t0玩法钻石教学</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">波波卡特ovo</Data></Cell>
+    <Cell><Data ss:Type="String">20.2万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">七万把中单剑圣请品鉴</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">玩剑圣的毛毛虫</Data></Cell>
+    <Cell><Data ss:Type="String">20万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">舟：新版本野区思路教学！</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">舟老师丶</Data></Cell>
+    <Cell><Data ss:Type="String">20万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">谁能拒绝一个甜妹呢~黑色玫瑰有位置~</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">希不动啦</Data></Cell>
+    <Cell><Data ss:Type="String">19.5万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">周五～周日 下午2点到晚上十点半</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">有只小奶喵</Data></Cell>
+    <Cell><Data ss:Type="String">19.5万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">~黑色 有位置</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">兔冷冷丶</Data></Cell>
+    <Cell><Data ss:Type="String">18.7万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">最初：半肉卡莎非常适合这个版本</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">最初卡莎</Data></Cell>
+    <Cell><Data ss:Type="String">18.5万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">征战一区王者局</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">夜色武器</Data></Cell>
+    <Cell><Data ss:Type="String">18.5万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">来了嗷bb们~</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">莉娅小宝贝</Data></Cell>
+    <Cell><Data ss:Type="String">18.5万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">不播啦  么么啾</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">薇古丝n</Data></Cell>
+    <Cell><Data ss:Type="String">18.2万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">饱胀女孩（电一有车位）</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">全世界最好的岚妹</Data></Cell>
+    <Cell><Data ss:Type="String">18.2万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">??渡我甜雨出凡尘~</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">甜雨n</Data></Cell>
+    <Cell><Data ss:Type="String">18.2万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">电一，御姐快乐上分车</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">呆星QvQ</Data></Cell>
+    <Cell><Data ss:Type="String">18.1万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">汤圆菜菜子申请上黄金~~阿巴阿巴阿巴</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">汤圆不圆嘿</Data></Cell>
+    <Cell><Data ss:Type="String">18.1万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">新人向：微风轻轻起好巧遇见你</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">馒馒才不笨呐</Data></Cell>
+    <Cell><Data ss:Type="String">17.6万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">小七：黑色玫瑰有车位哟~</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">灵儿和小七</Data></Cell>
+    <Cell><Data ss:Type="String">17.2万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">??成都小可爱 ???</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">颜颜TuT</Data></Cell>
+    <Cell><Data ss:Type="String">17.2万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[甜音少女]双倍亲密度~峡谷修炼可上车</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">会壁咚的妙龄少女</Data></Cell>
+    <Cell><Data ss:Type="String">16.8万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">小富婆琴女研发中！</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">奶妈的安眠药</Data></Cell>
+    <Cell><Data ss:Type="String">16.7万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">网一，发车发车~</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">日常辅助的猫小月</Data></Cell>
+    <Cell><Data ss:Type="String">16.5万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">开始最后3天的峡谷</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">二浪yyds</Data></Cell>
+    <Cell><Data ss:Type="String">16.3万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">艾欧尼亚 温柔妹妹一起上分呀~</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">温柔阿菲</Data></Cell>
+    <Cell><Data ss:Type="String">16.3万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">你在的话日子会甜一点</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">傲娇小野猫猫</Data></Cell>
+    <Cell><Data ss:Type="String">16万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">国服第一猫咪峡谷千分</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">雪色之猫</Data></Cell>
+    <Cell><Data ss:Type="String">15.9万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">「网一」天大地大没有我的开心大</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">黑天鹅狙击手</Data></Cell>
+    <Cell><Data ss:Type="String">15.8万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">两万场王者诺手教学</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">浩钦诺手</Data></Cell>
+    <Cell><Data ss:Type="String">15.7万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">峡谷之巅唯一王者诺手约翰i</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">猛男诺手</Data></Cell>
+    <Cell><Data ss:Type="String">15.7万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">峡谷千分冲第一</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">额额额XD</Data></Cell>
+    <Cell><Data ss:Type="String">15.6万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">阿芷：不如沉默，看看时间怎么说</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">少女阿芷丷</Data></Cell>
+    <Cell><Data ss:Type="String">15.6万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">（新）12.10阔剑图奇</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">河里图奇</Data></Cell>
+    <Cell><Data ss:Type="String">15.3万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">欣赏一下亚索的操作盛宴</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">清风亚索QAQ</Data></Cell>
+    <Cell><Data ss:Type="String">15.2万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">电一：有车位 上车冲</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">马炮炮ovo</Data></Cell>
+    <Cell><Data ss:Type="String">15.2万</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">有车位~艾欧尼亚大乱斗、云顶</Data></Cell>
+    <Cell><Data ss:Type="String">英雄联盟</Data></Cell>
+    <Cell><Data ss:Type="String">婳果果</Data></Cell>
+    <Cell><Data ss:Type="String">15.1万</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
